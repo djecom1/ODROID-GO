@@ -6,6 +6,14 @@
   (SRX)       DATA - 4 (Odroid-Go)
   (SRX)        GND - 1 (Odroid-Go)
 
+  Board :
+  ESP32 Wrover kit (all versions)
+  -speed 921600
+  -CPU 240MHz (Wifi/BT)
+  -Flash Freq : 80MHz
+  -Flash mode : QIO
+  -Flash size : 4MB (32Mb)
+  
   Library (included in github repo):  
   https://github.com/djecom1/ODROID-GO/
 */
